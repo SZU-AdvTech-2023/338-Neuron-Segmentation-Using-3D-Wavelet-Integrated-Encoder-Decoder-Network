@@ -1,0 +1,10 @@
+@article{REPO338,
+    author = "Li, Qiufu and Shen, Linlin",
+    journal = "Bioinformatics",
+    number = "3",
+    pages = "809--817",
+    publisher = "Oxford University Press",
+    title = "{Neuron Segmentation Using 3D Wavelet Integrated Encoder-Decoder Network}",
+    volume = "38",
+    year = "2022"
+}
